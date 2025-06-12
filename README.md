@@ -1,2 +1,2 @@
 # WebDev_Learning
-I will build a website using HTML and CSS. 
+I'am building a website using HTML and CSS. 
